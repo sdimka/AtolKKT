@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libfptr10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ATOL/10.2.0/wrappers/java/libfptr10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
